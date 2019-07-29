@@ -10,5 +10,5 @@
 
 ---
 
-[1]: telegram.me/CodeWalkersDevs
-[2]: telegram.me/joinchat/MSOdDg8g29SSDRtapbTrIA
+[1]: https://t.me/CodeWalkersDevs
+[2]: https://t.me/MSOdDg8g29SSDRtapbTrIA
