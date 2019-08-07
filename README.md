@@ -1,14 +1,10 @@
-# Grupos no Telegram
+# Repositório de gerenciamento dos grupos oficiais do [CodeWalkers][1] no Telegram
 
----
+### No momento, os grupos oficiais são os seguintes:
 
-#### Repositório de gerenciamento dos grupos do CodeWalkers no Telegram.
-#### No momento, são os seguintes:
+#### - [Grupo Principal][2]
+#### - [Grupo Off-Topic][3]
 
-#### - [Grupo Principal][1]
-#### - [Grupo Off-Topic][2]
-
----
-
-[1]: https://t.me/CodeWalkersDevs
-[2]: https://t.me/MSOdDg8g29SSDRtapbTrIA
+[1]: https://codewalkers.org
+[2]: https://t.me/CodeWalkersDevs
+[3]: https://t.me/MSOdDg8g29SSDRtapbTrIA
